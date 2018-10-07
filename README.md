@@ -5,3 +5,8 @@
 
 
 OK :+1:
+
+
+**modyfikujemy**
+
+sprawdzam
