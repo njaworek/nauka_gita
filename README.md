@@ -20,3 +20,7 @@ nowa modyfikacja
 
 
 ![Gram na gitarze](https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+
+
+to s zmiany w ekserymencie
