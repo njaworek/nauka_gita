@@ -1,3 +1,4 @@
+```
 Witaj tester!
 tester@tester-m:~$ cd ~
 tester@tester-m:~$ ls
@@ -236,6 +237,8 @@ Your branch is up to date with 'origin/master'.
 tester@tester-m:~/nauka_gita$ git marge eksperyment
 git: 'marge' is not a git command. See 'git --help'.
 
+
+
 The most similar command is
 	merge
 tester@tester-m:~/nauka_gita$ git merge eksperyment
@@ -250,3 +253,4 @@ Total 0 (delta 0), reused 0 (delta 0)
 To https://github.com/njaworek/nauka_gita.git
    51fcfdc..b6a7b67  master -> master
 tester@tester-m:~/nauka_gita$
+```
