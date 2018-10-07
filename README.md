@@ -12,3 +12,7 @@ OK :+1:
 sprawdzam
 
 nowa modyfikacja
+
+* moze bedzie dzialac
+  * tak  
+  * nie
